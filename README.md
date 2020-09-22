@@ -2,11 +2,11 @@
 
 - Hey. Meu nome é Warteruzannan Soyer Cunha (Zannan) e sou um entusiasta em ciência de dados/ML, desenvolvedor full-stack, corintiano e Araçuense.
 
-- Sou meste em ciência da computação pela UFScar e formado em ciência da computação pela UFG.
+- Sou mestre em ciência da computação pela UFScar e formado em ciência da computação pela UFG.
 
 #### ⚡ InSet
 
-Um projeto recente e bem legal foi a ferramenta InSet, uma ferramenta baseada em Aprendizado de Máquina para detectar anomalias arquiteturais em sistemas orientados a objetos. Saiba mais clicando [aqui](http://inset-tool.github.io/)
+Um projeto bem recente e muito bem legal que desenvolvi foi a InSet, uma ferramenta baseada em Aprendizado de Máquina para detectar anomalias arquiteturais em sistemas orientados a objetos. Saiba mais clicando [aqui](http://inset-tool.github.io/)
 
 <img src="https://media1.tenor.com/images/f093ad8ea5e22c39abf8a40438fbd4a3/tenor.gif?itemid=14366046" width="400px">
 
