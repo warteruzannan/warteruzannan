@@ -6,7 +6,7 @@
 
 #### ⚡ InSet
 
-Um projeto recente e bem legal foi a ferramenta InSet, uma ferramenta baseada em Aprendizado de Máquina para detectar anomalias arquiteturais em sistemas Orientados a Objetos. Saiba mais clicando [aqui](http://inset-tool.github.io/)
+Um projeto recente e bem legal foi a ferramenta InSet, uma ferramenta baseada em Aprendizado de Máquina para detectar anomalias arquiteturais em sistemas orientados a objetos. Saiba mais clicando [aqui](http://inset-tool.github.io/)
 
 <img src="https://media1.tenor.com/images/f093ad8ea5e22c39abf8a40438fbd4a3/tenor.gif?itemid=14366046" width="400px">
 
