@@ -13,7 +13,7 @@ Um projeto bem recente e muito bem legal que desenvolvi foi a InSet, uma ferrame
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/warteruzannan-cunha-459620b9/)
 [![Gmail](https://img.shields.io/static/v1?label=&message=warteruzannan@gmail.com&color=red&style=flat-square&logo=Gmail&logoColor=white)](mailto:warteruzannan@gmail.com)
 
-Manda um alô ai!
+Manda um alô ai 🤔!
 
 <!--
 **warteruzannan/warteruzannan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
