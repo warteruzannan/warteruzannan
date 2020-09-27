@@ -4,13 +4,16 @@
 
 - Sou mestre em ciência da computação pela UFScar e formado em ciência da computação pela UFG.
 
-#### ⚡ InSet
+### ⚡ InSet
 
 Um projeto bem recente e muito bem legal que desenvolvi foi a InSet, uma ferramenta baseada em Aprendizado de Máquina para detectar anomalias arquiteturais em sistemas orientados a objetos. Saiba mais clicando [aqui](http://inset-tool.github.io/)
 
 <img src="https://media1.tenor.com/images/f093ad8ea5e22c39abf8a40438fbd4a3/tenor.gif?itemid=14366046" width="400px">
 
+### 📫 Links
+
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/warteruzannan-cunha-459620b9/)
+
 [![Gmail](https://img.shields.io/static/v1?label=&message=warteruzannan@gmail.com&color=red&style=flat-square&logo=Gmail&logoColor=white)](mailto:warteruzannan@gmail.com)
 
 Manda um alô ai 🤔!
