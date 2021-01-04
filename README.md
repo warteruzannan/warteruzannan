@@ -2,7 +2,7 @@
 
 - Hey. Meu nome é Warteruzannan Soyer Cunha (Zannan) e sou um entusiasta em ciência de dados/ML, desenvolvedor full-stack, corintiano e Araçuense.
 
-- Sou mestre em ciência da computação pela UFScar e formado em ciência da computação pela UFG.
+- Doutrando e mestre em ciência da computação pela UFScar e formado em ciência da computação pela UFG.
 
 ### ⚡ InSet
 
