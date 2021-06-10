@@ -1,6 +1,6 @@
 ## O único Warteruzannan que você conhece 😄.
 
-- Hey. Meu nome é Warteruzannan Soyer Cunha (Zannan) e sou um entusiasta em ciência de dados/ML, desenvolvedor full-stack, corintiano e Araçuense.
+- Hey. Meu nome é Warteruzannan Soyer Cunha (Zannan) e sou um desenvolvedor full-stack, entusiasta em ciência de dados/ML, corintiano e Araçuense.
 
 - Doutorando e mestre em ciência da computação pela UFScar e formado em ciência da computação pela UFG.
 
