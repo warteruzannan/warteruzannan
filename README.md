@@ -1,12 +1,13 @@
-## O único Warteruzannan que você conhece 😄.
+## The only Warteruzannan you know 😄.
 
-- Hey. Meu nome é Warteruzannan Soyer Cunha (Zannan) e sou um desenvolvedor full-stack, entusiasta em ciência de dados/ML, corintiano e Araçuense.
+- I'm a Brazilian software developer passionate about solving complex problems with simple solutions. Currently, I work at Intelipost as a Backend Engineer. I graduated in Computer Science at Federal University of Goiás and  I obtained my master’s degree in Computer Science at Federal University of São Carlos (UFSCar) in 2020. Currently, he is a Ph.D. student at UFSCar. I have experience in mobile/web development, machine learning, and software architecture.
+Currently, my studies are focused on software architecture, patterns in microservices, and how to develop highly scalable applications using this type of architecture.
 
-- Doutorando e mestre em ciência da computação pela UFScar e formado em ciência da computação pela UFG.
+- Corintiano and Araçuense.
 
 ### ⚡ InSet
 
-Um projeto bem recente e muito legal que desenvolvi foi a InSet, uma ferramenta baseada em Aprendizado de Máquina para detectar anomalias arquiteturais em sistemas orientados a objetos. Saiba mais clicando [aqui](http://inset-tool.github.io/)
+A recent and very cool project I developed was InSet, a Machine Learning-based tool to detect architectural anomalies in object-oriented systems. Learn more by clicking [here](http://inset-tool.github.io/)
 
 <div style="width: 100%; display: flex; justify-content:center">
     <img src="https://media1.tenor.com/images/f093ad8ea5e22c39abf8a40438fbd4a3/tenor.gif?itemid=14366046" width="400px">
@@ -19,7 +20,8 @@ Um projeto bem recente e muito legal que desenvolvi foi a InSet, uma ferramenta 
 
 [![Gmail](https://img.shields.io/static/v1?label=&message=warteruzannan@gmail.com&color=red&style=flat-square&logo=Gmail&logoColor=white)](mailto:warteruzannan@gmail.com)
 
-Manda um alô ai 🤔!
+
+Say hello 🤔!
 
 <!--
 **warteruzannan/warteruzannan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
