@@ -1,6 +1,6 @@
 ## The only Warteruzannan you know 😄.
 
-- I'm a Brazilian software developer passionate about solving complex problems with simple solutions. Currently, I work at Intelipost as a Backend Engineer. I graduated in Computer Science at Federal University of Goiás and  I obtained my master’s degree in Computer Science at Federal University of São Carlos (UFSCar) in 2020. Currently,I'm a Ph.D. student at UFSCar. I have experience in mobile/web development, machine learning, and software architecture.
+⚡ I'm a Brazilian software developer passionate about solving complex problems with simple solutions. Currently, I work at Intelipost as a Backend Engineer. I graduated in Computer Science at Federal University of Goiás and  I obtained my master’s degree in Computer Science at Federal University of São Carlos (UFSCar) in 2020. Currently,I'm a Ph.D. student at UFSCar. I have experience in mobile/web development, machine learning, and software architecture.
 Currently, my studies are focused on software architecture, microservices patterns, and how to develop highly scalable applications using this type of architecture.
 
 - Corintiano and Araçuense.
