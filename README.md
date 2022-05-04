@@ -5,7 +5,7 @@ Currently, my studies are focused on software architecture, microservices patter
 
 - Corintiano and Araçuense.
 
-### ⚡ InSet
+⚡ **InSet**
 
 A recent and very cool project I developed was InSet, a Machine Learning-based tool to detect architectural anomalies in object-oriented systems. Learn more by clicking [here](http://inset-tool.github.io/)
 
