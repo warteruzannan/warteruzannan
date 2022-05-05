@@ -16,7 +16,7 @@ A recent and very cool project I developed was InSet, a Machine Learning-based t
 
 ### 📫 Links
 
-[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/warteruzannan-cunha-459620b9/)
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/warteruzannan-soyer-cunha-459620b9/)
 
 [![Gmail](https://img.shields.io/static/v1?label=&message=warteruzannan@gmail.com&color=red&style=flat-square&logo=Gmail&logoColor=white)](mailto:warteruzannan@gmail.com)
 
